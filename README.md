@@ -33,5 +33,22 @@ etc...
 ```
 # Run client (:3000) & server (:8800) & socket (:8900)
 npm start
+```
 
-### Foto
+## Foto
+### Registration 
+![image](https://user-images.githubusercontent.com/54546416/147367222-b90d6afb-2a32-4dad-ad5d-79d2c4d59547.png)
+
+### Login
+![image](https://user-images.githubusercontent.com/54546416/147367255-3a29e855-bf66-46c1-a87d-f9c62699a717.png)
+
+### Homepage
+![image](https://user-images.githubusercontent.com/54546416/147367262-be185d3a-f506-4897-89fb-1b825e64027e.png)
+
+### Profile
+![image](https://user-images.githubusercontent.com/54546416/147367282-a1fcf713-cba4-4862-9971-85adb7cf8a9a.png)
+
+### Chat
+![image](https://user-images.githubusercontent.com/54546416/147367291-404b230b-674f-44d8-a81a-e1e1b1d05624.png)
+
+
