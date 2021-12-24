@@ -35,7 +35,7 @@ etc...
 npm start
 ```
 
-## Foto
+## Photo
 ### Registration 
 ![image](https://user-images.githubusercontent.com/54546416/147367222-b90d6afb-2a32-4dad-ad5d-79d2c4d59547.png)
 
