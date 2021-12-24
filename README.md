@@ -33,3 +33,5 @@ etc...
 ```
 # Run client (:3000) & server (:8800) & socket (:8900)
 npm start
+
+### Foto
